@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.03.PosOrNeg\bin\Debug\03.03.PosOrNeg.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.03.PosOrNeg\bin\Debug\03.03.PosOrNeg.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.03.PosOrNeg\obj\Debug\03.03.PosOrNeg.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.03.PosOrNeg\obj\Debug\03.03.PosOrNeg.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.03.PosOrNeg\obj\Debug\03.03.PosOrNeg.pdb

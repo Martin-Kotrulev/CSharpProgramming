@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.NumSepByComma\bin\Debug\07.NumSepByComma.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.NumSepByComma\bin\Debug\07.NumSepByComma.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.NumSepByComma\obj\Debug\07.NumSepByComma.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.NumSepByComma\obj\Debug\07.NumSepByComma.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.NumSepByComma\obj\Debug\07.NumSepByComma.pdb

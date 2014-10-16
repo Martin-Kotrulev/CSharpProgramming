@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\02.SideWaysTriangle\bin\Debug\02.SideWaysTriangle.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\02.SideWaysTriangle\bin\Debug\02.SideWaysTriangle.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\02.SideWaysTriangle\obj\Debug\02.SideWaysTriangle.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\02.SideWaysTriangle\obj\Debug\02.SideWaysTriangle.pdb

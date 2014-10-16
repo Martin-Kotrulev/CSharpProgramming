@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\TEST\bin\Debug\TEST.exe.config
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\TEST\bin\Debug\TEST.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\TEST\bin\Debug\TEST.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\TEST\obj\Debug\TEST.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\TEST\obj\Debug\TEST.pdb

@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\01.HalfOfASquare\bin\Debug\01.HalfOfASquare.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\01.HalfOfASquare\bin\Debug\01.HalfOfASquare.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\01.HalfOfASquare\obj\Debug\01.HalfOfASquare.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\01.HalfOfASquare\obj\Debug\01.HalfOfASquare.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\01.HalfOfASquare\obj\Debug\01.HalfOfASquare.pdb

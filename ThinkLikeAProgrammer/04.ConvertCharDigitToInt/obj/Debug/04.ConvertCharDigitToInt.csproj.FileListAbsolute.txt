@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\04.ConvertCharDigitToInt\bin\Debug\04.ConvertCharDigitToInt.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\04.ConvertCharDigitToInt\bin\Debug\04.ConvertCharDigitToInt.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\04.ConvertCharDigitToInt\obj\Debug\04.ConvertCharDigitToInt.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\04.ConvertCharDigitToInt\obj\Debug\04.ConvertCharDigitToInt.pdb

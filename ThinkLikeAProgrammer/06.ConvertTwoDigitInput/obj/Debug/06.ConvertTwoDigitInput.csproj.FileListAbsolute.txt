@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\06.ConvertTwoDigitInput\bin\Debug\06.ConvertTwoDigitInput.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\06.ConvertTwoDigitInput\bin\Debug\06.ConvertTwoDigitInput.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\06.ConvertTwoDigitInput\obj\Debug\06.ConvertTwoDigitInput.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\06.ConvertTwoDigitInput\obj\Debug\06.ConvertTwoDigitInput.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\06.ConvertTwoDigitInput\obj\Debug\06.ConvertTwoDigitInput.pdb

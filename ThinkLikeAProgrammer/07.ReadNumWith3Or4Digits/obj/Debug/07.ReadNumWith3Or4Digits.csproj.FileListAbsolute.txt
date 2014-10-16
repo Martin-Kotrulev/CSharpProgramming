@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.ReadNumWith3Or4Digits\bin\Debug\07.ReadNumWith3Or4Digits.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.ReadNumWith3Or4Digits\bin\Debug\07.ReadNumWith3Or4Digits.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.ReadNumWith3Or4Digits\obj\Debug\07.ReadNumWith3Or4Digits.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.ReadNumWith3Or4Digits\obj\Debug\07.ReadNumWith3Or4Digits.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\07.ReadNumWith3Or4Digits\obj\Debug\07.ReadNumWith3Or4Digits.pdb

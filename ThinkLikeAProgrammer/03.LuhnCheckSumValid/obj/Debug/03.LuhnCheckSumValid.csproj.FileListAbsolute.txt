@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.LuhnCheckSumValid\bin\Debug\03.LuhnCheckSumValid.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.LuhnCheckSumValid\bin\Debug\03.LuhnCheckSumValid.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.LuhnCheckSumValid\obj\Debug\03.LuhnCheckSumValid.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.LuhnCheckSumValid\obj\Debug\03.LuhnCheckSumValid.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.LuhnCheckSumValid\obj\Debug\03.LuhnCheckSumValid.pdb

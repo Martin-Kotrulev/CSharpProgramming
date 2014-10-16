@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.02.SimpleCheckSumFixLen\bin\Debug\03.02.SimpleCheckSumFixLen.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.02.SimpleCheckSumFixLen\bin\Debug\03.02.SimpleCheckSumFixLen.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.02.SimpleCheckSumFixLen\obj\Debug\03.02.SimpleCheckSumFixLen.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\ThinkLikeAProgrammer\03.02.SimpleCheckSumFixLen\obj\Debug\03.02.SimpleCheckSumFixLen.pdb
